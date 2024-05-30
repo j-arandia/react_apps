@@ -1,5 +1,3 @@
-# react_apps
-
 ## Technologies
 - **Back-End:** Node.js, Npm, Express.js, Fastify, MongoDB, GraphQL with Mercurius adapter
 - **Front-End:** React 
