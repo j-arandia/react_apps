@@ -13,8 +13,6 @@
 
 ## Features
 
-## Navigate through quick links
-
 ## Screenshots / Demo
 
 # Messaging app
